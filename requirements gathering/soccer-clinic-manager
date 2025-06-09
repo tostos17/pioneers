@@ -1,0 +1,13 @@
+phases: 
+	- registration
+		-- parents will provide their names, phone number (preferably whatsapp number) and email address.
+		-- parents will provide their child's name and age.
+		-- application will vividly display disclaimers, guidelines, and available number of slots.
+	- pre-clinic notification
+		-- registered participants should be notified three days to commencement and the day before commencement via SMS. 
+	- appraisal (during the course)
+		-- application will appraise participants performance using basic metrics.
+		-- application will rank participants according to performance.
+
+	- post clinic advert campaign
+		-- application will keep a record of participants who joined the academy on a permanent basis.
