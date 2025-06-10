@@ -2,7 +2,7 @@ phases:
 	- registration
 		-- parents will provide their names, phone number (preferably whatsapp number) and email address.
 		-- parents will provide their child's name and age.
-		-- application will vividly display disclaimers, guidelines, and available number of slots.
+		-- application will vividly display disclaimers, guidelines, instructions, and available number of slots.
 	- pre-clinic notification
 		-- registered participants should be notified three days to commencement and the day before commencement via SMS. 
 	- appraisal (during the course)
@@ -13,11 +13,11 @@ phases:
 		-- application will keep a record of participants who joined the academy on a permanent basis.
 
 
+Age range: 8 - 13
 
 
 
-
-disclaimer
-guidelines
-number of slots
-appraisal metrics
+disclaimer => health concerns, participants should come with complete kit.
+guidelines ***
+number of slots = 20 | 15
+appraisal metrics: 
